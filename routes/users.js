@@ -12,6 +12,7 @@ const users = (callback) => {
     return callback(JSON.parse(data));
   });
 }
+
 usersRouter.get("/users", (req, res) => {
   users((data) => res.send(data));
 });
