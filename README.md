@@ -22,4 +22,4 @@
 5. Возможность удаления добавленной карточки.
 ---
 ### Инструкция по развертыванию проекта:
-1. Клонируем репозиторий на свой компьютер командой (git clone https://github.com/TroyKiri/servicePlaceWebpack.git);
+1. Клонируем репозиторий на свой компьютер командой (git clone https://github.com/TroyKiri/MestoExpressJS.git);
